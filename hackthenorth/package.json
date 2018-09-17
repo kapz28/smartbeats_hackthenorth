@@ -1,0 +1,23 @@
+{
+  "fitbit": {
+    "appUUID": "57705f31-f9f2-4d90-88a1-b250bfa16779",
+    "appType": "app",
+    "appDisplayName": "smartbeats",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#00bcd4",
+    "requestedPermissions": [
+      "access_heart_rate",
+      "access_internet",
+      "run_background"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "smartbeats"
+      }
+    }
+  }
+}
